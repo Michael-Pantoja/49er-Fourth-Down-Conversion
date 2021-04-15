@@ -1,0 +1,16 @@
+team,opponent,quarterback,player,quarter,time,yards_to_go,success,score_diff,game_win
+SFO,ARI,Garoppolo,Mostert,2,00:12:37,1,0,3,0
+SFO,ARI,Garoppolo,Taylor,4,00:00:37,5,0,-4,0
+SFO,PHI,Beathard,N/A,4,00:00:07,10,0,-5,0
+SFO,MIA,Garoppolo,McKinnon,1,00:07:40,1,0,-7,0
+SFO,MIA,Beathard,Aiyuk,4,00:07:36,2,0,-23,0
+SFO,LAR,Garoppolo,Kittle,2,00:14:21,4,1,13,1
+SFO,SEA,Garoppolo,Hasty,2,00:11:30,1,1,-6,0
+SFO,SEA,Mullens,Aiyuk,4,00:10:51,1,1,-23,0
+SFO,GNB,Mullens,Mullens,4,00:14:32,1,0,-28,0
+SFO,NOR,Mullens,McKinnon,2,00:01:55,1,0,0,0
+SFO,LAR,Mullens,Juszczyk,4,00:00:35,1,1,0,1
+SFO,BUF,Mullens,Wilson,1,00:01:38,1,0,0,0
+SFO,WAS,Mullens,Bourne,4,00:01:45,10,0,-8,0
+SFO,DAL,Mullens,Aiyuk,2,00:05:05,2,1,-4,0
+SFO,SEA,Beathard,Bourne,3,00:01:32,3,1,3,0
